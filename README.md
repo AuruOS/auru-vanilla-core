@@ -6,10 +6,10 @@ This image is based on top of [`vanillaos/core`](https://github.com/Vanilla-OS/c
 It is intended as an intermediary between upstream core and the downstream images of this Org, to allow any major build issues to be resolved in one place.
 
 > [!CAUTION]
-> This unofficall image of VanillaOS carefully install the image.This fork was created and is being developed by one developer, this project was made to: fix bugs in official releases, create a platform for creating the same images, create VanillaOS forks and also get verification from VanillaOS developers
+ This unofficall image of VanillaOS carefully install the image.This fork was created and is being developed by one developer, this project was made to: fix bugs in official releases, create a platform for creating the same images, create VanillaOS forks and also get verification from VanillaOS developers
 
 > [!IMPORTANT]
-> This image is in beta and this image is platform for new auru-vanilla based forks vanillaCore
+ This image is in beta and this image is platform for new auru-vanilla based forks vanillaCore
 
 ## Build
 
